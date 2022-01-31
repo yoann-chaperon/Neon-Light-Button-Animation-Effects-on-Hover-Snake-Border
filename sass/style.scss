@@ -5,9 +5,12 @@
 @import "libs/mixins.scss";
 @import "libs/function.scss";
 
+//color
 $colorBackground:#031321;
 $blueDark:#255784;
 $blue:#2196f3;
+
+
 body {
     display: flex;
     justify-content: center;
